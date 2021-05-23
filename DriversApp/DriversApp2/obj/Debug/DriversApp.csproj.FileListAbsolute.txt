@@ -1,0 +1,14 @@
+C:\Users\Даша\Source\Repos\DriversApp2.2\DriversApp2\bin\Debug\DriversDatabase.mdf
+C:\Users\Даша\Source\Repos\DriversApp2.2\DriversApp2\bin\Debug\DriversDatabase_log.ldf
+C:\Users\Даша\Source\Repos\DriversApp2.2\DriversApp2\bin\Debug\DriversApp2.exe.config
+C:\Users\Даша\Source\Repos\DriversApp2.2\DriversApp2\bin\Debug\DriversApp2.exe
+C:\Users\Даша\Source\Repos\DriversApp2.2\DriversApp2\bin\Debug\DriversApp2.pdb
+C:\Users\Даша\Source\Repos\DriversApp2.2\DriversApp2\obj\Debug\DriversApp.csprojAssemblyReference.cache
+C:\Users\Даша\Source\Repos\DriversApp2.2\DriversApp2\obj\Debug\DriversApp2.Authentication.resources
+C:\Users\Даша\Source\Repos\DriversApp2.2\DriversApp2\obj\Debug\DriversApp2.Drivers.resources
+C:\Users\Даша\Source\Repos\DriversApp2.2\DriversApp2\obj\Debug\DriversApp2.DriversLicense.resources
+C:\Users\Даша\Source\Repos\DriversApp2.2\DriversApp2\obj\Debug\DriversApp2.Properties.Resources.resources
+C:\Users\Даша\Source\Repos\DriversApp2.2\DriversApp2\obj\Debug\DriversApp.csproj.GenerateResource.cache
+C:\Users\Даша\Source\Repos\DriversApp2.2\DriversApp2\obj\Debug\DriversApp.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Source\Repos\DriversApp2.2\DriversApp2\obj\Debug\DriversApp2.exe
+C:\Users\Даша\Source\Repos\DriversApp2.2\DriversApp2\obj\Debug\DriversApp2.pdb
